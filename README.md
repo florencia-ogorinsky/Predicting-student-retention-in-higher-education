@@ -120,7 +120,7 @@ Go find them and dive into the data!
 ## 🔧 How to Improve the Model
 
 🔹 **Program-Specific Models**: Fine-tune models for each academic program  
-🔹 **Larger Sample Sizes**: Collect more data for underrepresented programs  
+🔹 **Larger Sample Sizes**: Collect more data for underrepresented programs and categories such as Enrolled
 🔹 **More Variables**: Include attendance, grades, socio-economic background, etc.  
 
 These improvements would make the analysis more robust and provide actionable insights to reduce student dropout rates.
