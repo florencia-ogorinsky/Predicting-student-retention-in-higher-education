@@ -1,6 +1,6 @@
 # Predicting Student Retention in Higher Education
 
-This project analyzes key factors that influence university student dropout, leveraging a dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success). The ultimate goal is to understand which variables most significantly impact student retention, and how these factors vary across different academic programs.
+This project analyzes key factors that influence university student dropout, leveraging a dataset from [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). The ultimate goal is to understand which variables most significantly impact student retention, and how these factors vary across different academic programs.
 
 ## 🎯 Project Objective
 
@@ -55,11 +55,6 @@ Final insights were visualized using Power BI. Each academic course was analyzed
 - `cleaned_student_data.xlsx`: Preprocessed dataset for visualization
 - `correlation_by_course_sorted.xlsx`: Course-specific correlation results
 - Google Colab notebook (available on request)
-
-## 📚 References
-
-- Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
-- Literature on student dropout factors (available in the project notebook)
 
 ---
 
