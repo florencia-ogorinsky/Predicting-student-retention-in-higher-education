@@ -98,8 +98,17 @@ Understanding these influences helps institutions design proactive policies—su
 
 
 ## 📌 Conclusion
-Our analysis shows that splitting the data by academic program helps uncover more accurate dropout predictors. Each program has unique characteristics, 
-and analyzing them separately improves the quality of insights. Machine learning can further enhance predictions, especially with more data and program-specific models.
+We observed that in the Distribution of Target Variable chart, the Enrolled category represents only 17% of our dataset. This is critical because these are the students we are most interested in — we want to know how many will graduate and how many will drop out.
+
+To improve prediction accuracy for this group, we would need a larger sample of enrolled students. That would make the model more balanced and enhance its performance on the most relevant class.
+
+Despite this limitation, by splitting the data by academic program, we were still able to uncover meaningful insights about which factors most influence dropout in higher education.
+
+📊 Explore More in Power BI
+Head over to my repository to check out the interactive Power BI dashboard, where you can explore how dropout factors vary across different academic programs.
+Go find them and dive into the data!
+
+
 
 ## 🚀 How This Can Help
 
@@ -111,7 +120,7 @@ and analyzing them separately improves the quality of insights. Machine learning
 ## 🔧 How to Improve the Model
 
 🔹 **Program-Specific Models**: Fine-tune models for each academic program  
-🔹 **Larger Sample Sizes**: Collect more data for underrepresented programs  
+🔹 **Larger Sample Sizes**: Collect more data for underrepresented programs and categories such as Enrolled
 🔹 **More Variables**: Include attendance, grades, socio-economic background, etc.  
 
 These improvements would make the analysis more robust and provide actionable insights to reduce student dropout rates.
